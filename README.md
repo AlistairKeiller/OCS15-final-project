@@ -28,13 +28,13 @@ I think this assignemnt went really well! I really liked how the UI turned out, 
 
 Keyboard art: https://www.asciiart.eu/computers/keyboards
 
-Ascii art font: http://www.figlet.org/fonts/big.flf
+ASCII art font: http://www.figlet.org/fonts/big.flf
 
 Hangman original image: https://commons.wikimedia.org/w/index.php?search=hangman&title=Special:MediaSearch&go=Go&type=image
 
-Hangman image prossesor (I used this to add a white background then invert the image before putting it through the ascii art covnerter ): https://onlinepngtools.com/add-png-background
+Hangman image prossesor (I used this to add a white background then invert the image before putting it through the ASCII art covnerter ): https://onlinepngtools.com/add-png-background
 
-Image to ascii art converter: https://www.ascii-art-generator.org/
+Image to ASCII art converter: https://www.ascii-art-generator.org/
 
 
 
