@@ -16,4 +16,7 @@ I had a clear idea of what the game was going to look like: hangman on the left,
 
 I think this assignemnt went really well! I really liked how the UI turned out, especially given it is a terminal based interface. I really wanted to have unbuffered input so that the user does not need to press enter, but that appears to be very difficult to do in java.
 
-Uploading Screencast from 05-21-2022 02_43_54 PM.mp4…
+
+
+https://user-images.githubusercontent.com/43255248/169670313-44453542-9ff7-4c60-a9e3-3d3b1a0bd9ae.mp4
+
