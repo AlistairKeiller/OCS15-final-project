@@ -2,7 +2,7 @@
 
 **Running the code:**
 
-To run the code, run EvilHangmna.java in a terminal of size 253 wide x 55 tall. The UI will probably look very odd if the your terminal's size is not configured correctly in Display.java. If you decrease the width, it will probobly throw a index out of bounds error when trying to render the "you lost, but keep trying!" text.
+To run the code, run EvilHangmna.java in a terminal of size 253 wide x 55 tall ( by default ). The UI will probably look very odd if the your terminal's size is not configured correctly in Display.java. If you decrease the width, it will probobly throw a index out of bounds error when trying to render the "you lost, but keep trying!" text.
 
 **Core Functioanlity Design Process:**
 
