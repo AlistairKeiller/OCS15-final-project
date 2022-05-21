@@ -17,6 +17,7 @@ I had a clear idea of what the game was going to look like: hangman on the left,
 I think this assignemnt went really well! I really liked how the UI turned out, especially given it is a terminal based interface. I really wanted to have unbuffered input so that the user does not need to press enter, but that appears to be very difficult to do in java.
 
 **Credits**
+
 Keyboard art: https://www.asciiart.eu/computers/keyboards
 
 Ascii art font: http://www.figlet.org/fonts/big.flf
@@ -26,5 +27,6 @@ Hangman original image: https://commons.wikimedia.org/w/index.php?search=hangman
 Hangman image prossesor (I used this to add a white background then invert the image before putting it through the ascii art covnerter ): https://onlinepngtools.com/add-png-background
 
 Image to ascii art converter: https://www.ascii-art-generator.org/
+
 
 https://user-images.githubusercontent.com/43255248/169670313-44453542-9ff7-4c60-a9e3-3d3b1a0bd9ae.mp4
