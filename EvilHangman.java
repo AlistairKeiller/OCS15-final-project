@@ -74,10 +74,17 @@ public class EvilHangman {
     }
 
     public static void doRoundLogic() {
-        // get input
-        char c = Character.toLowerCase(scanner.next().charAt(0));
+        // get user input
+        String s = scanner.nextLine();
 
-        // reprompt user if the input is invlaid
+        // exit if user input is not a single character
+        if(s.length() != 1)
+            return;
+
+        // get user input as char
+        char c = Character.toLowerCase(s.charAt(0));
+
+        // exit if user input is not a letter or has already been guessed
         if(!Character.isLetter(c) || guesses.contains(c))
             return;
 
